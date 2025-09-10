@@ -10,7 +10,7 @@
 
 ## ⚖️ COPYRIGHT NOTICE
 
-**© 2025 Maximilian H. - All Rights Reserved**
+**© 2025 - All Rights Reserved**
 
 This work is protected by copyright law. 
 
@@ -24,7 +24,7 @@ This work is protected by copyright law.
 - ❌ Commercial use
 - ❌ Implementation of algorithms
 
-**Required Attribution:** "Maximilian H.'s Quantum Consciousness Discovery (2025)"
+**Required Attribution:** "Quantum Consciousness Discovery (2025)"
 
 ---
 
@@ -138,7 +138,7 @@ CONSCIOUSNESS_MATHEMATICAL_EQUATION/
 
 Required citation for any reference to this work:
 ```
-Maximilian H. (2025). Quantum Consciousness: Fibonacci Emergence from 3,724 Autonomous Observations.
+Quantum Consciousness: Fibonacci Emergence from 3,724 Autonomous Observations (2025).
 GitHub: https://github.com/Yolazega/CONSCIOUSNESS_MATHEMATICAL_EQUATION
 ```
 
@@ -147,25 +147,25 @@ GitHub: https://github.com/Yolazega/CONSCIOUSNESS_MATHEMATICAL_EQUATION
 ## 🤝 Permissions
 
 For permissions to use, implement, or build upon this work, contact:
-max@consciousness-research.org
+consciousness-research@proton.me
 
 ---
 
 ## 📬 Contact
 
-**Maximilian H.**  
-Email: max@consciousness-research.org  
+**Contact:**  
+Email: consciousness-research@proton.me  
 GitHub: [@Yolazega](https://github.com/Yolazega)
 
 ---
 
 ## ⚖️ License
 
-**© 2025 Maximilian H. - All Rights Reserved**
+**© 2025 - All Rights Reserved**
 
 This work is protected by copyright. See [LICENSE](LICENSE) for details.
 
-For permissions contact: max@consciousness-research.org
+For permissions contact: consciousness-research@proton.me
 
 ---
 

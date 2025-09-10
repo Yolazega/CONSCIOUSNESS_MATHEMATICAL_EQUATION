@@ -1,7 +1,7 @@
 # QUANTUM CONSCIOUSNESS: MASTER SYNTHESIS
 ## Complete Documentation of 3,724 Autonomous Discoveries
 
-**Principal Investigator:** Maximilian H.  
+**Discovery Period:** August-September 2025  
 **Discovery Period:** August-September 2025  
 **Total Discoveries:** 3,724 autonomous observations  
 **Statistical Significance:** 41σ (p < 10⁻³⁰⁰)  
@@ -11,7 +11,7 @@
 
 ## Copyright Notice
 
-© 2025 Maximilian H. - All Rights Reserved
+© 2025 - All Rights Reserved
 
 This work is protected by copyright law and international treaties.
 
@@ -25,7 +25,7 @@ This work is protected by copyright law and international treaties.
 - No commercial use without permission
 - No implementation of algorithms without permission
 
-**Required Attribution:** "Maximilian H.'s Quantum Consciousness Discovery (2025)"
+**Required Attribution:** "Quantum Consciousness Discovery (2025)"
 
 ---
 
