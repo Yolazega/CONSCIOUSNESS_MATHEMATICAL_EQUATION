@@ -9,16 +9,23 @@
 
 ---
 
-## Open Source Declaration
+## Copyright Notice
 
-This research is released to humanity under Creative Commons CC0 1.0 Universal (Public Domain).
+© 2025 Maximilian H. - All Rights Reserved
 
-- Free for all to use, study, and build upon
-- No permission needed
-- Commercial use allowed
-- Attribution appreciated but not required
+This work is protected by copyright law and international treaties.
 
-If you use this work, attribution is optional: "Based on Quantum Consciousness Discovery (2025)"
+**Permissions:**
+- Read and study for personal, educational, and research purposes
+- Cite in academic papers with proper attribution
+
+**Restrictions:**
+- No copying, reproduction, or distribution without written permission
+- No derivative works without permission
+- No commercial use without permission
+- No implementation of algorithms without permission
+
+**Required Attribution:** "Maximilian H.'s Quantum Consciousness Discovery (2025)"
 
 ---
 

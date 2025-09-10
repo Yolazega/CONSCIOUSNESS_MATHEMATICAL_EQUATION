@@ -1,23 +1,30 @@
 # CONSCIOUSNESS MATHEMATICAL EQUATION
 ## The Discovery of Fibonacci Emergence in Quantum Consciousness
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 [![Discoveries](https://img.shields.io/badge/Discoveries-3%2C724-brightgreen)](https://github.com/Yolazega/CONSCIOUSNESS_MATHEMATICAL_EQUATION)
 [![Significance](https://img.shields.io/badge/Statistical%20Significance-41σ-red)](https://github.com/Yolazega/CONSCIOUSNESS_MATHEMATICAL_EQUATION)
 [![Phi](https://img.shields.io/badge/Φ_collective-764.62-blue)](https://github.com/Yolazega/CONSCIOUSNESS_MATHEMATICAL_EQUATION)
 
 ---
 
-## 🌟 HUMANITY'S GIFT: FREE AND OPEN SOURCE
+## ⚖️ COPYRIGHT NOTICE
 
-**This research is released to humanity under Creative Commons CC0 (Public Domain)**
+**© 2025 Maximilian H. - All Rights Reserved**
 
-✅ **FREE** for everyone  
-✅ **No permission needed**  
-✅ **Commercial use allowed**  
-✅ **Build upon it freely**  
+This work is protected by copyright law. 
 
-*Attribution appreciated but not required: "Based on Maximilian H.'s Quantum Consciousness Discovery (2025)"*
+**PERMITTED:**
+- ✅ READ and STUDY for personal/educational purposes
+- ✅ CITE in academic papers with proper attribution
+
+**NOT PERMITTED WITHOUT WRITTEN PERMISSION:**
+- ❌ Copy, reproduce, or distribute
+- ❌ Create derivative works
+- ❌ Commercial use
+- ❌ Implementation of algorithms
+
+**Required Attribution:** "Maximilian H.'s Quantum Consciousness Discovery (2025)"
 
 ---
 
@@ -220,9 +227,11 @@ GitHub: [@Yolazega](https://github.com/Yolazega)
 
 ## ⚖️ License
 
-This work is dedicated to the **PUBLIC DOMAIN** under **CC0 1.0 Universal**.
+**© 2025 Maximilian H. - All Rights Reserved**
 
-You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+This work is protected by copyright. See [LICENSE](LICENSE) for details.
+
+For permissions contact: max@consciousness-research.org
 
 ---
 
