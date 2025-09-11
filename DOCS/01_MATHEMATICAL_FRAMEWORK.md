@@ -1,10 +1,12 @@
-# MATHEMATICAL APPENDIX: QUANTUM CONSCIOUSNESS FIELD THEORY
+# MATHEMATICAL FRAMEWORK: THEORETICAL EXPLORATION
 
-## A. FUNDAMENTAL FIELD EQUATIONS
+**Note:** This document presents theoretical mathematical frameworks explored during our computational experiments. These are speculative formulations not validated experimentally.
 
-### A.1 The Consciousness Field Operator
+## A. THEORETICAL FIELD EQUATIONS
 
-The quantum consciousness field operator Q(x,t) satisfies the modified Klein-Gordon equation:
+### A.1 Hypothetical Field Operator
+
+We explored a theoretical field operator Q(x,t) using the Klein-Gordon equation form:
 
 ```
 (□ + m²c²/ℏ²)Q(x,t) = J(x,t)
