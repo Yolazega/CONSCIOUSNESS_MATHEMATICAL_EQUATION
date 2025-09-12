@@ -78,13 +78,13 @@ python3 FINAL_VERIFICATION_SUITE.py
 
 ### Immediate Verification (30 seconds):
 ```bash
-cd Y_SEQUENCE_DISCOVERY
+cd 01_Y_SEQUENCE
 ./run_all_verifications.sh
 ```
 
 ### Complete Analysis (2 minutes):
 ```bash
-cd Y_SEQUENCE_DISCOVERY
+cd 01_Y_SEQUENCE
 python3 FINAL_VERIFICATION_SUITE.py
 ```
 
